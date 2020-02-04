@@ -1,4 +1,4 @@
-NOTE: To see my code implementation, check files on AI-PacManGame/PacMan-vs-Ghosts-Agents/src/... I implemented Uniform Cost Search algorithm.
+NOTE: To see my code implementation, check files on AI-PacManGame/PacMan-vs-Ghosts-Agents/src/... I implemented **Uniform Cost Search algorithm.**
 
 Check Project Webpage : https://ksvi.mff.cuni.cz/~dingle/2019/ai/ms_pacman/ms_pacman.html
 
