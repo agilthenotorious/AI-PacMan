@@ -2,8 +2,7 @@ NOTE: To see my code implementation, check files on AI-PacManGame/PacMan-vs-Ghos
 
 Check Project Webpage : https://ksvi.mff.cuni.cz/~dingle/2019/ai/ms_pacman/ms_pacman.html
 
-Ms. Pac-Man vs. Ghosts Version 2.2.0
-screenshot
+![mspac](https://user-images.githubusercontent.com/45079660/73780251-1dc16b80-475c-11ea-87b9-44cff6e2e99e.png)
 
 Overview
 This is a Java implementation of the classic video game Ms. Pac-Man. You can play it live from the keyboard, but it is mostly intended for experimenting with algorithms that play the game automatically. You can write your own agent that plays the game using the API described below.
